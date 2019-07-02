@@ -36,7 +36,7 @@ npm install --save better-queue-m
 #### Quick Example
 
 ```js
-var Queue = require('better-queue');
+var Queue = require('better-queue-m');
 
 var q = new Queue(function (input, cb) {
   
