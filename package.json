@@ -1,5 +1,5 @@
 {
-  "name": "better-queue",
+  "name": "better-queue-m",
   "version": "3.8.10",
   "description": "Better Queue for NodeJS",
   "main": "lib/queue.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/diamondio/better-queue.git"
+    "url": "https://github.com/Jason916/better-queue.git"
   },
   "keywords": [
     "queue",
@@ -23,9 +23,9 @@
   "author": "Diamond Inc. <ops@diamond.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diamondio/better-queue/issues"
+    "url": "https://github.com/Jason916/better-queue/issues"
   },
-  "homepage": "https://github.com/diamondio/better-queue",
+  "homepage": "https://github.com/Jason916/better-queue",
   "devDependencies": {
     "mocha": "^2.3.4",
     "mocha-junit-reporter": "^1.12.1"
